@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/07/06 04:58:11.000.139,=C:\Users\Marcio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/06 04:59:24.000.356,C:\Users\Marcio\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\projetos\imov\untPrincipal.pas</Transaction>
+    <Transaction>2018/07/06 04:59:24.000.356,C:\Users\Marcio\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\projetos\imov\untPrincipal.dfm</Transaction>
+    <Transaction>2018/07/06 04:59:37.000.938,C:\Users\Marcio\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\projetos\imov\imov.dproj</Transaction>
+    <Transaction>2018/07/06 05:05:14.000.093,=D:\projetos\imov\visao\untPrincipal.pas</Transaction>
+    <Transaction>2018/07/06 05:07:39.000.388,=D:\projetos\imov\Unit1.pas</Transaction>
+    <Transaction>2018/07/06 05:10:46.000.064,D:\projetos\imov\modelo\Modelo.Acao.pas=D:\projetos\imov\Unit1.pas</Transaction>
+    <Transaction>2018/07/06 05:11:14.000.653,=D:\projetos\imov\Unit1.pas</Transaction>
+    <Transaction>2018/07/06 05:21:24.000.405,=D:\projetos\imov\Unit2.pas</Transaction>
+    <Transaction>2018/07/06 05:27:00.000.204,D:\projetos\imov\modelo\Modelo.Endereco.pas=D:\projetos\imov\Unit2.pas</Transaction>
+    <Transaction>2018/07/06 05:30:40.000.216,D:\projetos\imov\modelo\Modelo.Parceiro.pas=D:\projetos\imov\Unit1.pas</Transaction>
+    <Transaction>2018/07/06 05:31:40.000.931,=D:\projetos\imov\Unit1.pas</Transaction>
+    <Transaction>2018/07/06 05:44:38.000.669,D:\projetos\imov\modelo\Modelo.Imovel.pas=D:\projetos\imov\Unit1.pas</Transaction>
+    <Transaction>2018/07/06 05:46:56.000.015,=D:\projetos\imov\Unit1.pas</Transaction>
+    <Transaction>2018/07/06 05:47:31.000.283,=D:\projetos\imov\Unit2.pas</Transaction>
+    <Transaction>2018/07/06 05:52:33.000.480,D:\projetos\imov\dao\uConexao.dfm=D:\projetos\imov\Unit2.dfm</Transaction>
+    <Transaction>2018/07/06 05:52:33.000.480,D:\projetos\imov\dao\uConexao.pas=D:\projetos\imov\Unit2.pas</Transaction>
+    <Transaction>2018/07/17 05:55:05.000.997,=D:\projetos\imov\Unit1.pas</Transaction>
+    <Transaction>2018/07/17 05:58:35.000.887,=D:\projetos\imov\Unit1.pas</Transaction>
+    <Transaction>2018/07/17 05:59:46.000.123,D:\projetos\imov\dao\Dao.Imovel.pas=D:\projetos\imov\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
